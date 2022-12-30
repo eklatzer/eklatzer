@@ -4,7 +4,7 @@
 
 🇦🇹 I am a Software Developer based in Austria<br>
 :computer: I daily use ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)<br>
-:school: Graduated at <a href="https://www.htl-klu.at" target="_blank">HTL Mössingerstraße</a>
+:school: Graduated at [HTL Mössingerstraße](https://www.htl-klu.at) in the higher department for Electronics and Computer Science
 
 ## 🛠️ Languages And Tools I Use
 
