@@ -1,6 +1,8 @@
-# Hey I'm Eric, a passionated developer based in Austria 🇦🇹
+# Hi 👋, I'm Eric Klatzer
 
-Hey, my name is Eric Klatzer and I am a software developer and tech enthusiast based in Austria. I have just finished the HTL Mössingerstraße in the higher department for electronics and computer engineering where my journey in the software engineering world started some years ago. When coming to this school I had no knowledge in the area of software development and the word code was something very abstract for me. After writing the first lines of code I was instantly fascinated by the ability to create a small program out of nothing than some lines of code. As time went by I got more and more interested in coding and therefore I improved my skills with open source contributions, online courses, online coding challenges and also by trying out various things in freetime projects. Some of them can be found on my Github profile.
+🇦🇹 I am a Software Developer based in Austria<br>
+:computer: I daily use ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=36688D) ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=36688D) ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=36688D) ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=36688D)<br>
+:school: Graduated at [HTL Mössingerstraße](https://www.htl-klu.at) in the higher department for Electronics and Computer Science
 
 ## 🛠️ Languages And Tools I Use
 
