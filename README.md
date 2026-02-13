@@ -1,8 +1,9 @@
 # Hi 👋, I'm Eric Klatzer
 
-🇦🇹 I am a Software Developer based in Austria<br>
-:computer: I daily use ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=36688D) ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=36688D) ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=36688D) ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=36688D)<br>
-:school: Graduated at [HTL Mössingerstraße](https://www.htl-klu.at) in the higher department for Electronics and Computer Science
+🇦🇹 I am a Software Developer and DevOps Enthusiast based in Austria<br>
+:computer: I daily use ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=36688D) ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=36688D) ![](https://img.shields.io/badge/Tools-Helm-informational?style=flat&logo=helm&logoColor=white&color=36688D) ![](https://img.shields.io/badge/Tools-ArgoCD-informational?style=flat&logo=argo&logoColor=white&color=36688D) ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=36688D) ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=36688D)
+<br>
+:school: I graduated at [HTL Mössingerstraße](https://www.htl-klu.at) in the higher department for Electronics and Computer Science
 
 ## 🛠️ Languages And Tools I Use
 
@@ -23,12 +24,13 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Containerization and Orchestration
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/helm-%23326ce5.svg?style=for-the-badge&logo=helm&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Databases
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Version Control and CI
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
