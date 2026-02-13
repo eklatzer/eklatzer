@@ -1,4 +1,4 @@
-# Hi 👋, I'm Eric Klatzer
+# Hi 👋 I'm Eric Klatzer
 
 🇦🇹 I am a Software Developer and DevOps Enthusiast based in Austria<br>
 :computer: I daily use ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=36688D) ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=36688D) ![](https://img.shields.io/badge/Tools-Helm-informational?style=flat&logo=helm&logoColor=white&color=36688D) ![](https://img.shields.io/badge/Tools-ArgoCD-informational?style=flat&logo=argo&logoColor=white&color=36688D) ![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=36688D) ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=36688D)
